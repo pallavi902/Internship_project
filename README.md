@@ -103,3 +103,11 @@ The way kmeans algorithm works is as follows:
 ![](minmaxmodal.png)
 
 
+4.seasonal price of fruits of particular apmc
+
+
+![](minmaxmodal.png)
+
+
+
+
