@@ -97,3 +97,9 @@ The way kmeans algorithm works is as follows:
 ![](scatteredplot.png)
 
 
+3.min price, max price, modal price variation.
+
+
+![](scatteredplot.png)
+
+
