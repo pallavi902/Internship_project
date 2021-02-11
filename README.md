@@ -91,3 +91,9 @@ The way kmeans algorithm works is as follows:
 ![](fluctutetion2.png)
 
 
+2. scatter plot of commodities.
+
+
+![](flutuation1.png)
+
+
