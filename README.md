@@ -103,10 +103,22 @@ The way kmeans algorithm works is as follows:
 ![](minmaxmodal.png)
 
 
-4.seasonal price of fruits of particular apmc
+4.seasonal price of fruits of particular apmc(apmc= kalburgi , commodity =pomogranate)
 
 
 ![](k-p-graph.png)
+
+
+# TEST CASES
+
+
+TC – 01	Clicking submit without selecting csv file 	Alert "Please fill all details"	Pass
+TC – 02	Clicking submit by selecting wrong format file 	Alert "Please select correct format file "	Pass
+TC – 03	Clicking submit by uploading larger file 	Alert "upload file is too large "	Pass
+TC – 04	Clicking submit by selecting existing apmc or particular commodity Alert "graph will be plotted "	Pass
+TC – 05	Clicking submit by not selecting existing apmc or particular commodity Alert "no graph will be plotted"	Pass
+TC – 06	Clicking submit entering confirm password data which is not matching with password data	Alert "Password and Confirm Password do  not match"	Pass
+
 
 
 
