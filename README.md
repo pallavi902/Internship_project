@@ -34,7 +34,7 @@ In this segment user can load the data set to the application
 Raw Data:· In this stage, the historical stock data is agitated from https://www.quandl.com/data/NSE and this historical data is utilized for the prediction of future stock prices.
 
 
-# Stage 2: Data Preprocessing:· The pre-processing step includes
+# Data Preprocessing:· The pre-processing step includes
 a) Data discretization: Part of data reduction but with particular importance, especially for numerical data.
 b) Data transformation: Normalization.
 c) Data cleaning: Fill in missing null values.
@@ -81,7 +81,7 @@ The way kmeans algorithm works is as follows:
 •	Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.
 
 
-# OUTPUTS
+# Outputs
 1.fluctuation of commoditiesprice over time.
 
 
@@ -109,7 +109,7 @@ The way kmeans algorithm works is as follows:
 ![](k-p-graph.png)
 
 
-# TEST CASES
+# Test cases
 
 
 TC – 01	Clicking submit without selecting csv file 	Alert "Please fill all details"	Pass
