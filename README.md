@@ -1,4 +1,4 @@
-# OVERVIEW
+# Overview
 
 
 Commodity price prediction serves as an important quantitative basis for commodity production planning-in particular for capacity planning. High level decision and planning in commodity production relies heavily on past commodity price. Many researches have shown that commodity price is subject to great volatile now then has been the case in the past. Many past predictive models for commodity price models have mixed performance .
@@ -7,7 +7,7 @@ Commodity price prediction serves as an important quantitative basis for commodi
 The aim here is to develop a model that can accurately predict the price of commodity monthly for a particular district using the dataset available.
 
 
-# INTRODUCTION
+# Introduction
 This document outlines the software requirements for analysing and forecasting a time series commodities price data. It will cover the overall description of the system, specific requirements as well as modelling requirements, diagrams and a description of a prototype to be built to demonstrate the system’s functionality
 
 
@@ -65,13 +65,13 @@ In this sediment, the output fee generated with the aid of way of  manner compar
 
 
 # ALGORITHM USED
-# SVM ALGORITHM
+## SVM algorithm
 
 Support Vector Machine” (SVM) is a supervised device studying set of guidelines which may be used for each beauty or regression stressful situations. However, it's far specially carried out in kind troubles. In the SVM set of policies, we plot every facts item as a problem in n-dimensional region (in which n is shape of abilities you've got) with the rate of each characteristic being the charge of a particular coordinate. Then, we carry out splendor with the resource of finding the hyper-aircraft that differentiates the two schooling very well.
 
 Here, maximizing the distances among nearest records component (each class) and cluster information will assist us to determine the right type. This distance is called as Margin
 
-# K-means
+## K-means
 The way kmeans algorithm works is as follows:
 1.	Specify number of clusters K.
 2.	Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
