@@ -28,3 +28,25 @@ Size: The total Size of Data is around 50MB and it Contain prices of Commodity f
 8. ModalPrice: Price between minimum and maximum price. 
 9. ArrivalQuantity: Amount of Quantity of commodity arrived in the market.
 
+
+# Load Dataset 
+In this segment user can load the data set to the application 
+Raw Data:· In this stage, the historical stock data is agitated from https://www.quandl.com/data/NSE and this historical data is utilized for the prediction of future stock prices.
+
+
+# Stage 2: Data Preprocessing:· The pre-processing step includes
+a) Data discretization: Part of data reduction but with particular importance, especially for numerical data.
+b) Data transformation: Normalization.
+c) Data cleaning: Fill in missing null values.
+d) Data integration: Integration of data files.
+After the dataset is transformed right into a natural dataset, the dataset is split into schooling and finding out gadgets so that you can study. Here, the schooling values are taken because of the truth the extra cutting-edge values. Testing facts is saved as five-10 percent of the overall dataset.
+
+
+# Feature Extraction:
+In this sediment, most effective the competencies which may be to be fed to the neural network are selected. We will choose the function from Date, open, immoderate, low, near, and quantity.
+
+
+# Output Generation:
+In this sediment, the output fee generated with the aid of way of way of manner of the output layer of the ANN is in comparison with the goal charge. The mistakes or the difference some of the motive and the acquired output which adjusts the weights and the biases of the community.
+
+
