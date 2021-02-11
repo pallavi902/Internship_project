@@ -52,4 +52,4 @@ In this sediment, the output fee generated with the aid of way of  manner compar
 
 # Data Flow Diagram
 
-<img>user/admin/desktop/USECASE.PNG </img>
+![alt text](http://user/admin/desktop/to/USERCASE.png)
