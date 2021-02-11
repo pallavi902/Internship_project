@@ -106,7 +106,7 @@ The way kmeans algorithm works is as follows:
 4.seasonal price of fruits of particular apmc
 
 
-![](minmaxmodal.png)
+![](k-p-graph.png)
 
 
 
