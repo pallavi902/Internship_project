@@ -84,6 +84,6 @@ The way kmeans algorithm works is as follows:
 # OUTPUTS
 fluctuation of commoditiesprice over time.
 ![](flutuation1.png)
-![](useractivtydiagram.png)
+![](fluctutetion2.png)
 
 
