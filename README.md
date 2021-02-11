@@ -80,3 +80,10 @@ The way kmeans algorithm works is as follows:
 •	Assign each data point to the closest cluster (centroid).
 •	Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.
 
+
+# OUTPUTS
+fluctuation of commoditiesprice over time.
+![](useractivtydiagram.png)
+![](useractivtydiagram.png)
+
+
