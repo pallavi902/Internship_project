@@ -62,3 +62,21 @@ In this sediment, the output fee generated with the aid of way of  manner compar
 # user activity diagram
 
 ![](useractivtydiagram.png)
+
+
+# ALGORITHM USED
+# SVM ALGORITHM
+
+Support Vector Machine” (SVM) is a supervised device studying set of guidelines which may be used for each beauty or regression stressful situations. However, it's far specially carried out in kind troubles. In the SVM set of policies, we plot every facts item as a problem in n-dimensional region (in which n is shape of abilities you've got) with the rate of each characteristic being the charge of a particular coordinate. Then, we carry out splendor with the resource of finding the hyper-aircraft that differentiates the two schooling very well.
+
+Here, maximizing the distances among nearest records component (each class) and cluster information will assist us to determine the right type. This distance is called as Margin
+
+# K-means
+The way kmeans algorithm works is as follows:
+1.	Specify number of clusters K.
+2.	Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
+3.	Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.
+•	Compute the sum of the squared distance between data points and all centroids.
+•	Assign each data point to the closest cluster (centroid).
+•	Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.
+
