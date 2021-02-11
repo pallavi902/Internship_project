@@ -47,6 +47,9 @@ In this sediment, most effective the competencies which may be to be fed to the 
 
 
 # Output Generation:
-In this sediment, the output fee generated with the aid of way of way of manner of the output layer of the ANN is in comparison with the goal charge. The mistakes or the difference some of the motive and the acquired output which adjusts the weights and the biases of the community.
+In this sediment, the output fee generated with the aid of way of  manner comparison with the goal charge. The mistakes or the difference some of the motive and the acquired output which adjusts the weights and the biases of the community.
 
 
+# Data Flow Diagram
+
+<img>user/admin/desktop/USECASE.PNG </img>
