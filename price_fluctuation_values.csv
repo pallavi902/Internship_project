@@ -1,0 +1,26 @@
+date,APMC,Commodity,Year,Month,arrivals_in_qtl,min_price,max_price,modal_price,cluster
+2016-09-01,Pune-Manjri,Other Vegetables,2016,September,4685,1800,1800,1800,Other Vegetables at Pune-Manjri
+2016-10-01,Pune-Manjri,Other Vegetables,2016,October,9517,1800,1800,1800,Other Vegetables at Pune-Manjri
+2016-10-01,Barshi,Brinjal,2016,October,91,2416,4163,3574,Brinjal at Barshi
+2016-07-01,Barshi,Tomato,2016,July,147,1467,2445,1924,Tomato at Barshi
+2016-07-01,Barshi,Cabbage,2016,July,124,872,1486,1168,Cabbage at Barshi
+2016-07-01,Barshi,Flower,2016,July,106,1019,1641,1332,Flower at Barshi
+2016-07-01,Barshi,Green Chilli,2016,July,138,3055,5190,3990,Green Chilli at Barshi
+2016-10-01,Barshi,Cluster Bean,2016,October,57,3095,4821,4021,Cluster Bean at Barshi
+2016-09-01,Barshi,Lemon,2016,September,188,2911,4647,3858,Lemon at Barshi
+2016-10-01,Barshi,Cucumber,2016,October,151,768,1590,1213,Cucumber at Barshi
+2018-06-01,Pune-Manjri,Ambat chuka,2018,June,4,900,1800,1350,Ambat chuka at Pune-Manjri
+2016-07-01,Barshi,Capsicum,2016,July,69,2228,3569,3000,Capsicum at Barshi
+2016-08-01,Barshi,Capsicum,2016,August,120,1718,2316,2030,Capsicum at Barshi
+2016-07-01,Barshi,Ladies Finger,2016,July,48,1232,2105,1673,Ladies Finger at Barshi
+2016-09-01,Barshi,Ladies Finger,2016,September,43,1150,1850,1475,Ladies Finger at Barshi
+2016-10-01,Barshi,Ladies Finger,2016,October,81,1066,2106,1644,Ladies Finger at Barshi
+2016-07-01,Barshi,Bitter Gourd,2016,July,79,1985,3156,2565,Bitter Gourd at Barshi
+2016-10-01,Barshi,Bitter Gourd,2016,October,94,1389,2295,1858,Bitter Gourd at Barshi
+2016-08-01,Pune-Manjri,Ghosali(Bhaji),2016,August,45,3343,3962,3617,Ghosali(Bhaji) at Pune-Manjri
+2018-10-01,Pune-Manjri,Onion,2018,October,216,1209,2535,1887,Onion at Pune-Manjri
+2018-11-01,Pune-Manjri,Onion,2018,November,118,1222,2600,1794,Onion at Pune-Manjri
+2016-06-01,Pune,Squash Gourd,2016,June,1453,2820,6300,5848,Squash Gourd at Pune
+2018-09-01,Pune-Manjri,Rajgira,2018,September,45,733,1367,1140,Rajgira at Pune-Manjri
+2018-08-01,Lasur Station,Onion,2018,August,5634,967,5033,3833,Onion at Lasur Station
+2018-09-01,Lasur Station,Onion,2018,September,216,1275,4300,3488,Onion at Lasur Station
